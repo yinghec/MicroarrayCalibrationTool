@@ -1,0 +1,132 @@
+body {
+	padding-left: 100px;
+}
+div.functions p {
+	margin-right: 20px;
+	clear:left;
+	float:left;
+	border: 2px;
+	border-style: solid;
+    border-radius: 25px;
+    border-color: black;
+    padding: 10px;
+}
+div.mainPic img {
+	clear:left;
+    overflow: visible;
+    margin: 0;
+    padding: 0;
+    border: 2px;
+   	border-style: solid;
+    border-color: blue;
+    position: absolute;
+    left: 350px;
+    top:100px;
+}
+body {
+	margin-left: 73.5px;
+	margin-right: 73.5px;
+}
+h1 {
+	float: left;
+}
+#first {
+	left: 175px;
+	top: 400px;
+}
+#sec {
+	top: 400px;
+	left: 514px;
+}
+#thr {
+	top: 400px;
+	left: 781px;
+}
+#five {
+	top: 400px;
+	left: 701px;
+}
+#four {
+	top: 400px;
+	left: 434px;
+}
+div.leftExplain p , div.leftExplain img{
+	float: left;
+	position: fixed;
+}
+
+div.leftExplain p {
+	padding: 5px;
+	margin: auto;
+	border: 2px solid;
+	border-radius: 25px;
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	padding: 5px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	vertical-align: middle;
+}
+form {
+	/*text-align: center;*/
+	padding: 2.5px;
+
+}
+.add, .minus {
+	text-align: center;
+}
+#FileUploadContainer {
+	margin-left: 25px;
+}
+.txtColor {
+	color:red;
+}
+div.leftExplain {
+	text-align: center;
+}
+#current {
+    position: absolute;
+    left: 240px;
+    top: 350px;
+    overflow: visible;
+}
+#current2 {
+	position: absolute;
+    left: 525px;
+    top: 350px;
+    overflow: visible;
+}
+#current3 {
+	position: absolute;
+    left: 775px;
+    top: 350px;
+    overflow: visible;
+}
+#available {
+	overflow: visible;
+	position: absolute;
+	left: 1100px;
+	top: 320px;
+}
+h2 {
+	text-align: left;
+}
+#line {
+	display: inline-block;
+}
+.btmBanner{
+	position: absolute;
+	left: 175px;
+	top: 500px;
+}
+.banner1{
+	position: absolute;
+	left:175px;
+	top:75px;
+}
+.function {
+	position: absolute;
+	left:175px;
+	top:400px;
+}
